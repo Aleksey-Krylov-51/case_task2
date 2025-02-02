@@ -1,1 +1,0 @@
-export const hasComments = (comments) => comments && comments.length > 0;
